@@ -1,5 +1,5 @@
 # 🐧 DevOps Linux Command Cheat Sheet
-### বাংলা ব্যাখ্যা সহ — সম্পূর্ণ DevOps গাইড
+
 
 > **⚠ সতর্কতা:** `sudo` ও `rm -rf` ব্যবহারের আগে সবসময় double-check করো। Production server-এ একটা ভুল command অনেক বড় ক্ষতি করতে পারে।
 
@@ -1276,20 +1276,3 @@ docker system prune -af
 
 ---
 
-## 📚 DevOps-এ আরও যা শিখতে হবে
-
-এই commands হলো foundation। পূর্ণ DevOps engineer হতে আরও লাগবে:
-
-| বিষয় | Tools |
-|------|-------|
-| CI/CD | Jenkins, GitHub Actions, GitLab CI |
-| Infrastructure as Code | Terraform, Pulumi |
-| Configuration Management | Ansible, Chef, Puppet |
-| Cloud | AWS CLI, Azure CLI, GCP CLI |
-| Monitoring | Prometheus, Grafana, ELK Stack |
-| Scripting | Bash scripting, Python |
-| Secret Management | HashiCorp Vault, AWS Secrets Manager |
-
----
-
-*এই cheat sheet print করো ও কাছে রাখো। Practice করো — commands মুখস্থ করার চেয়ে বারবার ব্যবহার করলেই মনে থাকবে।* 🚀
